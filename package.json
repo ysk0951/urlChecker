@@ -1,6 +1,23 @@
 {
-  "dependencies": {
-    "lodash": "^4.17.21",
-    "request": "^2.88.2"
-  }
+  "type": "module",
+  "name": "uc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysk0951/urlChecker.git"
+  },
+  "keywords": [
+    "url"
+  ],
+  "author": "yskim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ysk0951/urlChecker/issues"
+  },
+  "homepage": "https://github.com/ysk0951/urlChecker#readme",
+  "description": ""
 }
